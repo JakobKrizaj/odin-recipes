@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    background-color: burlywood;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+}
